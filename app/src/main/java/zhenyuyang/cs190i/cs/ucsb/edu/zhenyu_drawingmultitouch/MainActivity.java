@@ -108,7 +108,8 @@ public class MainActivity extends AppCompatActivity {
 
                 int numOfFingers = event.getPointerCount();
                 int mActivePointerId = 0;
-                int pointerIndex = 0;
+                int pointerIndex = 0;  //gfh
+
 
 
                 //Log.i("1324","numOfFingers = "+numOfFingers);
